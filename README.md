@@ -10,7 +10,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * Install the 'plyr' package if you don't have it.
 
 The run_analysis.R will 
-* Merges the training and the test sets to create one data set.
+* Merge the training and the test sets to create one data set.
 * Extract only the measurements on the mean and standard deviation for each measurement.
 * Generate a tidy data set with the average of each variable for each activity and each subject.
-* Export this final tidy data to tidyData.csv in your working directory.
+* Export this final tidy data to a 'tidyData.csv' in your working directory.
